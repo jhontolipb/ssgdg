@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309202182787",
+    "project_id": "ssg-digi",
+    "storage_bucket": "ssg-digi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309202182787:android:d948cf11b85e711ae8b1b6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDQMojCQY_kGJBrZMf754QAKYENb5Xgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309202182787:android:f9d6008b3223cb9de8b1b6",
+        "android_client_info": {
+          "package_name": "com.omsc.ssgdigi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDQMojCQY_kGJBrZMf754QAKYENb5Xgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
